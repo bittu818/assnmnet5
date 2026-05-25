@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: assignment5-app
-        image: YOUR_DOCKERHUB_USERNAME/assignment5-app:v1
+        image: sridharkovvela/assignment5-app:v1
         ports:
         - containerPort: 8080
